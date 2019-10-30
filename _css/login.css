@@ -1,0 +1,41 @@
+body{
+    font-family: verdana;
+    font-size: 100%;
+    color: #fff;
+}
+
+p a .t {
+    font-family: verdana;
+    color: black;
+    text-align: center;
+    text-decoration:none;
+    margin: 500px
+    
+}
+
+form{
+    margin: auto;
+    width: 300px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(95, 96, 97);
+    margin-top: 100px;
+    text-align: center;
+}
+
+.campo{
+    width: 200px;
+    height: 20px;
+    border-radius: 3px;
+    margin-top: 5px;
+}
+
+a{
+    color: #fff
+}
+
+.btn{
+    width: 100px;
+    height: 30px;
+    border: 1px solid;
+}
